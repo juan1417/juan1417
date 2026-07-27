@@ -11,15 +11,17 @@
 
 ## 🧑‍💻 About Me
 
+```python
 class JuanMachado:
     def __init__(self):
         self.role = "Software Engineering Student"
         self.university = "Pascual Bravo"
-        self.location = "Colombia 🇨🇴"
+        self.location = "Colombia"
         self.current_focus = ["Full Stack Development", "Cloud Architecture", "DevOps"]
         
     def say_hello(self):
-        return "Welcome to my GitHub! I build things that matter 🚀"
+        return "Welcome to my GitHub! I build things that matter"
+```
 
 🎓 **Software Engineering Student** at Pascual Bravo  
 💼 **Junior Developer** with hands-on experience across the stack  
