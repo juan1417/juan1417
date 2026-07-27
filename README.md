@@ -100,16 +100,9 @@ class JuanMachado:
 
 <div align="center">
 
-<a href="https://github.com/juan1417">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan1417&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B61FF&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan1417&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juan1417&show_icons=true&theme=tokyonight&hide_border=true&count_all_commits=true&count_private=true)
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=juan1417&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=7B61FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=C9D1D9)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juan1417&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -119,17 +112,7 @@ class JuanMachado:
 
 <div align="center">
 
-[![Top Contributed](https://github-contributor-stats.vercel.app/api?username=juan1417&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/phanirithvij)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juan1417&bg_color=0D1117&color=00D4FF&line=7B61FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Top Contributed](https://github-contributor-stats.vercel.app/api?username=juan1417&limit=5&theme=tokyonight)
 
 </div>
 
@@ -149,6 +132,6 @@ class JuanMachado:
 
 ### ✨ *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=juan1417&icon=0&color=00D4FF)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=juan1417&color=00D4FF&style=for-the-badge)
 
 </div>
