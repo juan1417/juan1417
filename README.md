@@ -96,23 +96,11 @@ class JuanMachado:
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juan1417&show_icons=true&theme=tokyonight&hide_border=true&count_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juan1417&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Top Contributed Repos
-
-<div align="center">
-
-![Top Contributed](https://github-contributor-stats.vercel.app/api?username=juan1417&limit=5&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=juan1417&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=7B61FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=C9D1D9)
 
 </div>
 
